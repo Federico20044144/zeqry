@@ -1,0 +1,2 @@
+# zeqry
+Bot
